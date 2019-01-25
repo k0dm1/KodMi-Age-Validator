@@ -1,8 +1,11 @@
 # KodMi-Age-Validator
 
-No Dependencys, Light Weight.
 
-Validate a customers age before you allow them to enter your website with KodMi age checker.
+Built 2019 - No Dependencys - Light Weight - Responsive
+
+Check a vistors age before you allow them to enter your website with the KodMi Age Validator.
+
+It's easy to implant, can be done by adding 1 line of code. It's light weight and mobile responsive that's cross-browser friendly with zero dependencys and works without any pre-existing code conflictions, that can be fully customized to match your website or you can make use of the default theme.
 
 HOW TO USE:
 ```
@@ -28,3 +31,4 @@ null, // Custom Css for age checker.
 null //  Custom Html for sorry message.
 );
 ```
+ 
