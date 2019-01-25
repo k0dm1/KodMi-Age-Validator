@@ -13,7 +13,7 @@ Just link the "age_check.js" in your website, just before the end of </body>
 ```
 HOW TO EDIT:
 
-Change the following code at he bottom of "age_check.js"
+Change the following code at the bottom of "age_check.js"
 ```
 // Javascript Function to pass Jquery function call to class
 function call_back_kodmi(){
