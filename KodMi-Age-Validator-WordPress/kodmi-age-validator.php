@@ -14,7 +14,6 @@
  *
  * @wordpress-plugin
  * Plugin Name:       KodMi Age Validator
- * Plugin URI:        https://kodmi.com/
  * Description:       A responsive, no dependency, age checking plugin that doesn't conflict with your current theme. Check the age of every single visitor on your wordpress site with this amazing KodMi Plugin.
  * Version:           1.0.0
  * Author:            KodMi
