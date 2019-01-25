@@ -5,6 +5,7 @@ No Dependencys, Light Weight.
 Validate a customers age before you allow them to enter your website with KodMi age checker.
 
 HOW TO USE:
+
 Just link the "age_check.js" in your website, just before the end of </body>
 
 HOW TO EDIT:
