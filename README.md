@@ -6,7 +6,7 @@ Validate a customers age before you allow them to enter your website with KodMi 
 
 
 HOW TO USE:
-
+```
 // Javascript Function to pass Jquery function call to class
 function call_back_kodmi(){
 	 $.force_appear(); // Jquery function call
@@ -22,3 +22,4 @@ null, // Custom  Html for age checker.
 null, // Custom Css for age checker.
 null //  Custom Html for sorry message.
 );
+```
