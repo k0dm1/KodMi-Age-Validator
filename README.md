@@ -8,7 +8,7 @@ Check a vistors age before you allow them to enter your website with the KodMi A
 It's easy to implant, can be done by adding 1 line of code. It's light weight and mobile responsive that's cross-browser friendly with zero dependencys and works without any pre-existing code conflictions, that can be fully customized to match your website or you can make use of the default theme.
 
 # How To Use
-Just link the "age_check.js" in your html/page, just before the end of </body>
+Just link the "age_check.js" in your html/page, just before the end of "</body>"
 
 Example:
 ```
