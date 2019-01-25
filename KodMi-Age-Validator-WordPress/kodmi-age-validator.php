@@ -15,12 +15,12 @@
  * @wordpress-plugin
  * Plugin Name:       KodMi Age Validator
  * Plugin URI:        https://kodmi.com/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       A responsive, no dependency, age checking plugin that doesn't conflict with your current theme. Check the age of every single visitor on your wordpress site with this amazing KodMi Plugin.
  * Version:           1.0.0
  * Author:            KodMi
  * Author URI:        https://kodmi.com/
  * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       http://www.gnu.orge/licenses/gpl-2.0.txt
  * Text Domain:       kodmi-age-validator
  * Domain Path:       /languages
  */
