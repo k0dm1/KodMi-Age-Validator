@@ -10,7 +10,7 @@
  *
  * @link              https://kodmi.com/
  * @since             1.0.0
- * @package           Kodmi_Age_Validator
+ * @package           KodMi_Age_Validator
  *
  * @wordpress-plugin
  * Plugin Name:       KodMi Age Validator
