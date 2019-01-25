@@ -9,6 +9,7 @@ root wp->wp-content->plugins
 ```
 where "root-wp" is the location where wordpress was installed on your server.
 <br><br><br><br>
+#Configure
 If your looking to adjust the configuration to the KodMi Age Validator the location of the javascript file is:
 
 ```
