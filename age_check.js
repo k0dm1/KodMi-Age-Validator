@@ -101,7 +101,7 @@ page_html(){
 
 // Javascript Function to pass Jquery function call to class
 function call_back_kodmi(){
-	 $.force_appear(); // Jquery function call
+	 //$.force_appear(); // Jquery function call
 }
 // End of Javascript Function to pass Jquery function call to class
 
