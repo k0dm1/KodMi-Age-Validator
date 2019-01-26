@@ -67,8 +67,8 @@ class Kodmi_Age_Validator {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
-		if ( defined( 'PLUGIN_NAME_VERSION' ) ) {
-			$this->version = PLUGIN_NAME_VERSION;
+		if ( defined( 'kodmi_age_validator_version' ) ) {
+			$this->version = kodmi_age_validator_version;
 		} else {
 			$this->version = '1.0.0';
 		}
